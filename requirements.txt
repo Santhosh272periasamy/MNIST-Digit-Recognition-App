@@ -17,3 +17,5 @@ streamlit==1.45.0
 streamlit-drawable-canvas==0.9.3
 
 opencv-python-headless
+
+tensorflow==2.15.0
